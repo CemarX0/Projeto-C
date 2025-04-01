@@ -60,8 +60,8 @@
         printf("Estado: %s\n", estado);
         printf("Código: %s\n", carta);
         printf("Nome da Cidade: %s\n", cidade);
-        printf("População: %6.3fkm²\n", populacao);
-        printf("Área: %5.1f\n", area);
+        printf("População: %6.3f\n", populacao);
+        printf("Área: %5.1fkm²\n", area);
         printf("PIB: %6.3f\n", pib);
         printf("Pontos turísticos: %i\n", pturisticos);
         printf("\n");
@@ -71,8 +71,8 @@
         printf("Estado: %s\n", estado2);
         printf("Código: %s\n", carta2);
         printf("Nome da Cidade: %s\n", cidade2);
-        printf("População: %6.3fkm²\n", populacao2);
-        printf("Área: %5.1f\n", area2);
+        printf("População: %6.3f\n", populacao2);
+        printf("Área: %5.1fkm²\n", area2);
         printf("PIB: %6.3f\n", pib2);
         printf("Pontos turísticos: %i\n", pturisticos2);
 
